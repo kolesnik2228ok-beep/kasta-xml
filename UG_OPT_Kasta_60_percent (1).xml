@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2026-11-10 14:17">
+  <shop>
+    <name>UG-OPT — Kasta побутова техніка +60% (тест)</name>
+    <company>UG-OPT</company>
+    <url>https://ug-opt.in.ua/ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Побутова техніка</category>
+      <category id="2" parentId="1">Тостери</category>
+      <category id="3" parentId="1">Прилади для приготування солодощів</category>
+    </categories>
+    <offers>
+      <offer id="UG35346" available="true">
+        <url>https://ug-opt.in.ua/ua/p2899160894-toster-raf-r505.html</url>
+        <price>1696</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://images.prom.ua/7040763008_toster-raf-r505.jpg</picture>
+        <vendor>RAF</vendor>
+        <param name="Потужність">1300 Вт</param>
+        <param name="Кількість відділень">4</param>
+        <param name="Напруга">220 В</param>
+        <param name="Розміри">22×22×15 см</param>
+        <name_ua>Тостер RAF R.505 1300W</name_ua>
+        <description_ua>Тостер із чотирма відділеннями, потужність 1300 Вт, шість ступенів обсмажування.</description_ua>
+        <article>UG-35346</article>
+        <param name="Розмір">-</param>
+      </offer>
+      <offer id="UG35539" available="true">
+        <url>https://ug-opt.in.ua/ua/p2911801176-apparat-dlya-prigotovlenie.html</url>
+        <price>1824</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://images.prom.ua/7058465395_aparat-dlya-prigotuvannya.jpg</picture>
+        <vendor>Sokany</vendor>
+        <param name="Потужність">500 Вт</param>
+        <param name="Діаметр чаші">25 см</param>
+        <param name="Напруга">220–240 В</param>
+        <param name="Час нагрівання">120 с</param>
+        <name_ua>Апарат для приготування цукрової вати Sokany AND SK-520</name_ua>
+        <description_ua>Домашній апарат для приготування цукрової вати з кварцовим нагрівальним елементом.</description_ua>
+        <article>UG-35539</article>
+        <param name="Розмір">-</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
